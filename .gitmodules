@@ -1,0 +1,6 @@
+[submodule "case"]
+	path = case
+	url = git@github.com:juriform36/case.git
+[submodule "zmk-config"]
+	path = zmk-config
+	url = git@github.com:juriform36/zmk-config.git
